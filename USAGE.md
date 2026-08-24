@@ -1,5 +1,7 @@
 # USAGE.md — SM120 Quantized GEMM Kernel Library
 
+> **Dependencies note:** release archives don't carry submodule contents — clone CUTLASS (see `.gitmodules`) into `3rd-party/cutlass` before building.
+
 ## What This Is
 
 CUDA kernel library for quantized GEMM on SM120 GPUs (RTX 5090/5080). Provides NVFP4, FP8, and Q4_K GEMM variants (single + grouped) plus quantization helpers. Shared dependency for both attention (LayerStoRmKernels) and expert (LayerStoRmExpertKernels) pipelines.
