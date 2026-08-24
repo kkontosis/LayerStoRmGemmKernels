@@ -104,6 +104,6 @@ Tested with: CUDA 13.1, PyTorch 2.9.1+cu130, CUTLASS 4.4.2, RTX 5090 (SM 12.0).
 
 ## License
 
-Apache-2.0 (see `LICENSE.md`). Portions are derived from third-party projects
+MIT License (see `LICENSE.md`). Portions are derived from third-party projects
 (llama.cpp/ggml, SGLang, vLLM, NVIDIA CUTLASS, FlashMLA) — see
 `THIRD_PARTY_NOTICES.md` for per-upstream attributions and license texts.

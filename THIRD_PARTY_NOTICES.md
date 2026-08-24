@@ -171,7 +171,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ## Appendix C — Apache License 2.0
 
-The Apache License 2.0 text is reproduced in this repository as `LICENSE.md`.
+This repository is licensed under the MIT License — see `LICENSE.md`.
 It applies both to LayerStoRmGemmKernels itself (Copyright 2026 Kimon
 Kontosis) and to the Apache-2.0-licensed upstream material identified above
 (SGLang, vLLM, NVIDIA TensorRT-LLM).
